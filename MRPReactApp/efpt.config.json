@@ -1,0 +1,93 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "dbMRPprodContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "MRPReactApp",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[blank]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[customer]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[detail_composition]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[mark_steel]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[material]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[material_type]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[order_composition]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[order_product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[plan_composition]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[plan_product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[product_kind]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[product_type]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[specification]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "(localdb)\\MSSQLLocalDB.dbMRPprod",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
